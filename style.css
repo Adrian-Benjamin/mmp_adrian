@@ -1,0 +1,40 @@
+<!-- index styling -->
+body{background-color:#DC143C;}
+
+h1{color: #ff6447;
+font-family: "Gill Sans", sans-serif;
+font-size: 40px;
+text-align: center;}
+
+p{color: #FFFFFF;}
+
+<style>
+a:link {
+  color: darkorange;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: blueviolet;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+
+
+
+<!-- landscape styling -->
+
